@@ -1,0 +1,27 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+  }
+body{
+    background-image: url("nithi3.JPG");
+}
+  
+  @media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
+#skills{
+    padding: 5px;
+    border: 2px;
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+}
+.skl{
+    background-color: aquamarine;
+    color: black;
+    width: 100%;
+}
+
